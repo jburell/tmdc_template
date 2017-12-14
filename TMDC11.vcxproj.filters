@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9059f0ea-d35d-474f-b982-61bf4fc0d396}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Source Files\caca">
+      <UniqueIdentifier>{d0eb0b3b-3149-44dc-8411-9006ec309523}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7199dd1b-2acd-488f-8b5e-8630b9aadf41}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{65c655e2-148a-40dc-8d42-94e8faf77be2}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\ASCIIout.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bz_math.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\bz_video.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\effects.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\music.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\bitmap.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\box.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\caca.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\conic.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\event.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\graphics.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\line.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\math.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\sprite.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\time.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+    <ClCompile Include="src\caca\triangle.c">
+      <Filter>Source Files\caca</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\caca\caca.h">
+      <Filter>Source Files\caca</Filter>
+    </ClInclude>
+    <ClInclude Include="src\caca\caca_internals.h">
+      <Filter>Source Files\caca</Filter>
+    </ClInclude>
+    <ClInclude Include="src\caca\config.h">
+      <Filter>Source Files\caca</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ASCIIout.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\bz_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\bz_video.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\effects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\fmod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\music.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TODO.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
