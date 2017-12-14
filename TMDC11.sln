@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TMDC11", "TMDC11.vcxproj", "{D6B1560B-EE8B-4060-9955-83415C132FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B1560B-EE8B-4060-9955-83415C132FA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6B1560B-EE8B-4060-9955-83415C132FA8}.Debug|Win32.Build.0 = Debug|Win32
+		{D6B1560B-EE8B-4060-9955-83415C132FA8}.Release|Win32.ActiveCfg = Release|Win32
+		{D6B1560B-EE8B-4060-9955-83415C132FA8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE3052F-A9B8-4D60-B392-A5F927AD1A46}
+	EndGlobalSection
+EndGlobal
